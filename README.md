@@ -20,14 +20,18 @@
 ### Assumptions: 
 •	用户在开始下这个APP 时，可以对一年中的所有大事件进行设置，然后对这些大事件进行一些行程的安排，如：我2018年9月在APP 上写下2018年12月我要过六级，那么小程同学APP 会为我规划今年2018年9月到2018年12月我要做什么，并语音提示；API技术：Hutoma、Web Speech API<Br/> 
 •	用户在前一天晚上输入第二天要做的事，小程同学做好规划，并在第二天语音提示，技术：Hutoma、Web Speech API<Br/> 
-### 需求 Requirements: 一一列出 用户案例（User story） 
+### 需求 Requirements: 
 •	用户在开始下这个APP 时，可以对一年中的所有大事件进行设置，然后对这些大事件进行一些行程的安排，如：我2018年9月在APP 上写下2018年12月我要过六级，那么小程同学APP 会为我规划今年2018年9月到2018年12月我要做什么<Br/> 
-#### 所对映的标题（Title）丶：年级规划
-#### 重要程度（Importance）及：有效地使用时间
-#### 笔记（Note）：Hutoma、Web Speech API
-•	https://www.jianshu.com/p/ac690e784371
-### 使用者交互及设计: User interaction and design 针对这些产品需求，有关於 任何的模型丶示意图或视觉设计
+#### 所对映的标题（Title）丶：
+年级规划<Br/> 
+#### 重要程度（Importance）及：
+有效地使用时间<Br/> 
+#### 笔记（Note）：
+Hutoma、Web Speech API<Br/> 
+https://www.jianshu.com/p/ac690e784371<Br/> 
+### 使用者交互及设计:
 •	暂时没有<Br/> 
-### 问题 Questions: 列出以上需求文件做完旳话可以完成什麽样的问题 
+### 问题 Questions: 
+在做完上面需求之后，我可以做出一个运用Hutoma、Web Speech API等API 支持下的一个Web APP ，这个APP 可以解决我们日常的记性差的问题，让我们更方便地规划自己的行程，更有效率地完成工作<Br/> 
 ### 不做 Not doing: 列出诗论及记录过的功能，超出范围的功能，下一版再改进的功能，都放在这
 •	在做好以上的时候，我想要实现规划行程时可以有多个行程选择<Br/> 

@@ -10,12 +10,12 @@ Final project product requirements
 
 |         |            |
 | ------------- |:-------------:|
-| Target release     | 未定 |
-| Epic      |  植物识别与植物推荐   |
+| Target release     | 小程同学 |
+| Epic      |  行程APP   |
 | Document status | 已开始      |
-| Designer        | 靳诗雅 |
-| Developer       | 靳诗雅 |
-| QA | 靳诗雅  |
+| Designer        | 蔡泽纯 |
+| Developer       | 蔡泽纯 |
+| QA | 蔡泽纯  |
 ### Goals: 
 做一款可以为用户记住行程并且不会打扰用户的行程APP<Br/> 
 ### Background and strategic fit: 

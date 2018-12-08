@@ -4,15 +4,18 @@
 ### Epic:<Br/> 
 •	史诗名称：小程同学<Br/> 
 •	用户案例：每个人每天要做的事很多，但是很容易会忘记我到底要做什么，而且一年有365天，你可能不记得哪一天是谁的生日，你可以需要一个备忘录，提醒你这些事情。小程同学是一个很简单的APP，你在每一年输入要做的大事，如哪一天是谁的生日或者哪一天是四六级考试，他可以在这些节点上提示你或者你在前一天晚上输入第二天大致要做什么，他会提示你第二天的行程安排，并且可以语音播报<Br/> 
+# API_ML_AI 植物识别之个人“植物地图”
+Final project product requirements
+
+
 |         |            |
 | ------------- |:-------------:|
-| Target release     | 小程 |
-| Epic      |  行程APP   |
+| Target release     | 未定 |
+| Epic      |  植物识别与植物推荐   |
 | Document status | 已开始      |
-| Designer        | 蔡泽纯 |
-| Developer       | 蔡泽纯 |
-| QA | 蔡泽纯  |
-
+| Designer        | 靳诗雅 |
+| Developer       | 靳诗雅 |
+| QA | 靳诗雅  |
 ### Goals: 
 做一款可以为用户记住行程并且不会打扰用户的行程APP<Br/> 
 ### Background and strategic fit: 

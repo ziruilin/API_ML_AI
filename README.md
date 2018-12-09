@@ -46,6 +46,8 @@
 | 1        |   输入任务行程    | 按照自己需要设置行程任务 | 重要 | https://github.com/ziruilin/python |  
 | 2        |   查看行程任务模板    | 选择自己想要的任务形成模板 | 重要 | Hutoma、Web Speech API |  
 | 3        |   发送任务行程挑战    | 可以查看任务行程进度 | 重要 | 有效地使用时间 |  
+##### 语音识别API
+![Image text](./部分成功代码.png)<Br/> 
 ### 使用者交互及设计:
 • 产品原型图：https://ziruilin.github.io/API_PT/<Br/> 
 • APP流程图：<Br/> 

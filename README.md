@@ -38,18 +38,9 @@
 ### 需求 Requirements: 
 |         |    Title     |       User story     |      Importance     |      Notes     |
 | ------------- |:-------------:|:-------------:|:-------------:|:-------------:|
-| 1        |   输入任务行程    | 按照自己需要设置行程任务 | 重要 |  |  
-| 2        |   查看行程任务模板    | 选择自己想要的任务形成模板 | 重要 |  |  
-| 3        |   发送任务行程挑战    | 可以查看任务行程进度 | 重要 |  |  
-#### 所对映的标题（Title）丶：
-• 年级规划<Br/> 
-#### 重要程度（Importance）及：
-• 有效地使用时间<Br/> 
-#### 笔记（Note）：
-• Hutoma、Web Speech API<Br/> 
-• https://www.jianshu.com/p/ac690e784371<Br/> 
-• 百度API的语音识别<Br/> 
-• 代码：https://github.com/ziruilin/python<Br/> 
+| 1        |   输入任务行程    | 按照自己需要设置行程任务 | 重要 | https://github.com/ziruilin/python |  
+| 2        |   查看行程任务模板    | 选择自己想要的任务形成模板 | 重要 | Hutoma、Web Speech API |  
+| 3        |   发送任务行程挑战    | 可以查看任务行程进度 | 重要 | 有效地使用时间 |  
 ### 使用者交互及设计:
 • 产品原型图：https://ziruilin.github.io/API_PT/<Br/> 
 • APP流程图：<Br/> 

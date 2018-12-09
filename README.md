@@ -45,7 +45,7 @@
 • 产品原型图：https://ziruilin.github.io/API_PT/<Br/> 
 • APP流程图：<Br/> 
 ![Image text](./flow.png)<Br/> 
-• APP流程图：<Br/> 
+• 产品功能结构图：<Br/> 
 ![Image text](./产品功能结构图.png)<Br/> 
 ### 问题 Questions: 
 |    Question     |       Outcome     |   

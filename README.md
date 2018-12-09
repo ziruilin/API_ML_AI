@@ -48,7 +48,7 @@
 • APP流程图：<Br/> 
 ![Image text](./flow.png)<Br/> 
 • APP流程图：<Br/> 
-![Image text](./产品结构图.png)<Br/> 
+![Image text](./产品功能结构图.png)<Br/> 
 ### 问题 Questions: 
 • 在做完上面需求之后，我可以做出一个运用Hutoma、Web Speech API等API 支持下的一个Web APP ，这个APP 可以解决我们日常的记性差的问题，让我们更方便地规划自己的行程，更有效率地完成工作<Br/> 
 ### 不做 Not doing: 列出诗论及记录过的功能，超出范围的功能，下一版再改进的功能，都放在这

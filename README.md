@@ -50,13 +50,13 @@
 | 2        |   查看行程任务模板    | 选择自己想要的任务形成模板 | 重要 | Hutoma、Web Speech API |  
 | 3        |   发送任务行程挑战    | 可以查看任务行程进度 | 重要 | 有效地使用时间 |  
 ##### 语音识别API
-![Image text](./部分成功代码.png)<Br/> 
+![avatar](./部分成功代码.png)<Br/> 
 ### 使用者交互及设计:
 • 产品原型图：https://ziruilin.github.io/API_PT/<Br/> 
 • APP流程图：<Br/> 
-![Image text](./flow.png)<Br/> 
+![avatar](./flow.png)<Br/> 
 • 产品功能结构图：<Br/> 
-![Image text](./产品功能结构图.png)<Br/> 
+![Image text](https://github.com/ziruilin/API_ML_AI/blob/master/%E4%BA%A7%E5%93%81%E5%8A%9F%E8%83%BD%E7%BB%93%E6%9E%84%E5%9B%BE.png)<Br/> 
 ### 问题 Questions: 
 |    Question     |       Outcome     |   
 | ------------- |:-------------:|

@@ -93,3 +93,11 @@ https://github.com/ziruilin/API_ML_AI/blob/master/语音合成API代码.ipynb
 ### 不做 Not doing: 列出诗论及记录过的功能，超出范围的功能，下一版再改进的功能，都放在这
 • 后期：在做好以上的时候，我想要实现规划行程时可以有多个行程选择<Br/> 
 • 向好友发送行程任务挑战
+## 全部附件清单：
+语音识别API：https://github.com/ziruilin/API_ML_AI/blob/master/语音识别API.ipynb<Br/>
+自定义模板文字API：https://github.com/ziruilin/API_ML_AI/blob/master/自定义模板文字识别API.ipynb<Br/>
+语音合成API：https://github.com/ziruilin/API_ML_AI/blob/master/语音合成API代码.ipynb<Br/>
+产品原型图：https://ziruilin.github.io/API_PT/<Br/> 
+产品功能架构图：https://github.com/ziruilin/API_ML_AI/blob/master/产品功能架构图.png
+产品功能流程图：https://github.com/ziruilin/API_ML_AI/blob/master/flow.png
+

@@ -98,6 +98,6 @@ https://github.com/ziruilin/API_ML_AI/blob/master/语音合成API代码.ipynb
 自定义模板文字API：https://github.com/ziruilin/API_ML_AI/blob/master/自定义模板文字识别API.ipynb<Br/>
 语音合成API：https://github.com/ziruilin/API_ML_AI/blob/master/语音合成API代码.ipynb<Br/>
 产品原型图：https://ziruilin.github.io/API_PT/<Br/> 
-产品功能架构图：https://github.com/ziruilin/API_ML_AI/blob/master/产品功能架构图.png
-产品功能流程图：https://github.com/ziruilin/API_ML_AI/blob/master/flow.png
+产品功能架构图：https://github.com/ziruilin/API_ML_AI/blob/master/产品功能架构图.png<Br/> 
+产品功能流程图：https://github.com/ziruilin/API_ML_AI/blob/master/flow.png<Br/> 
 

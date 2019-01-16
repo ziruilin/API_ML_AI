@@ -62,7 +62,8 @@
 ### API
 ##### 语音识别API
 ![avatar](./部分成功代码.png)<Br/> 
-代码链接：https://github.com/ziruilin/python
+代码链接：https://github.com/ziruilin/API_ML_AI/blob/master/语音识别API.ipynb
+https://github.com/ziruilin/python
 ##### 自定义模板文字识别API
 代码链接：https://github.com/ziruilin/python/blob/master/API2.md
 ##### API使用比较分析

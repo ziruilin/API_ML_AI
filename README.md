@@ -60,6 +60,7 @@
 | 2        |   用户可以语音输入任务行程    | 老年用户不懂得如何打字，但容易忘事，可以直接语音输入 | 重要 | 语音识别API |  
 | 3        |   发送任务行程挑战    | 可以查看任务行程进度 | 重要 | request调用微信库 |  
 ### API
+##### API使用水平
 ##### 语音识别API
 ![avatar](./部分成功代码.png)<Br/> 
 代码链接：https://github.com/ziruilin/API_ML_AI/blob/master/语音识别API.ipynb<Br/>
